@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
   "scripts": {
-    "start": "index.html"
+    "start": "js/app.js"
   },
   "repository": {
     "type": "git",
@@ -12,6 +12,7 @@
   "author": "Not Me",
   "dependencies": {
     "jquery": "^3.1.1",
-    "sw-precache": "^4.2.1"
+    "sw-precache": "^4.2.1",
+    "express": "^4.14.0"
   }
 }
