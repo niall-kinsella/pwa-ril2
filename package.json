@@ -3,26 +3,18 @@
   "version": "1.0.0",
   "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
   "scripts": {
-<<<<<<< HEAD
     "start": "node ./index.js"
-=======
-    "start": "node ./index.html"
->>>>>>> cc87665f20670764626b3d2c9520dddfdecde6c2
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/niall-kinsella/pwa-rpl.git"
+    "url": "https://github.com/niall-kinsella/pwa-rpl2.git"
   },
   "author": "NK",
   "devDependencies": {
     "sw-precache": "^4.2.1"
   },
   "dependencies": {
-<<<<<<< HEAD
       "express": "^4.14.0"
   }
 }
-=======
-  }
-}
->>>>>>> cc87665f20670764626b3d2c9520dddfdecde6c2
+
