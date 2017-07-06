@@ -15,6 +15,6 @@
     "sw-precache": "^4.2.1"
   },
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.14.0"
   }
 }
